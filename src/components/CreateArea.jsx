@@ -20,6 +20,9 @@ function handleChange(event) {
 
 function submitNote (event) {
     props.onAdd(note);
+    setNote({                    // Erase previous note on display 
+    title: "",
+    content: ""});
     event.preventDefault();     // Prevent the reload of App after click on add button!
 }
 
