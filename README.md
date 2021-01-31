@@ -2,6 +2,8 @@
 
 ![Screen Shot](https://github.com/Miltonr87/SmartNote/blob/master/smartnote.png)
 
+[X] Desktop version
+
 ### About
 
 Made with React, SmartNote is a simple and efficient Notepad in SPA that allows you to capture and organize your ideas as in a old high school mural. This work was my first solid project in React using few components and learning how to create and destroy structures. To build it I used the most modern tool in React documentation called Hooks API. 
