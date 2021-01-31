@@ -1,6 +1,6 @@
 ### SmartNote
 
-![Screen Shot](https://github.com/Miltonr87/SmartNote/blob/main/smartnote.png)
+![Screen Shot](https://github.com/Miltonr87/SmartNote/blob/master/smartnote.png)
 
 ### About
 
