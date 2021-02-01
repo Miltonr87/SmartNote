@@ -6,7 +6,7 @@
 
 ### About
 
-Made with React, SmartNote is a simple and efficient Notepad in SPA that allows you to capture and organize your ideas as in a old high school mural. This work was my first solid project in React using few components and learning how to create and destroy structures. To build it I used the most modern tool in React documentation called Hooks API. 
+Made with React, SmartNote is a simple and efficient **Notepad** in **SPA** that allows you to capture and organize your ideas as in a old high school mural. This work was my first solid project in React using few components and learning how to create and destroy structures. To build it I used the most modern tool in React documentation called **Hooks API**. 
 
 ### Getting Started
 
@@ -15,7 +15,7 @@ Made with React, SmartNote is a simple and efficient Notepad in SPA that allows 
 
 ### Required:
 
-As you see, SmarNote App runs on [Node.js](https://nodejs.org/), so before you can continue, please ensure that you have it installed with NPM or Yarn. Once you have Node installed, you will need the React (17.01) library. So, to start the project in your machine, open your terminal inside the SmarNote folder, and type "NPM Install" or "Yarn Install".
+As you see, **SmarNote App** runs on [Node.js](https://nodejs.org/), so before you can continue, please ensure that you have it installed with NPM or Yarn. Once you have Node installed, you will need the React (17.01) library. So, to start the project in your machine, open your terminal inside the SmarNote folder, and type "NPM Install" or "Yarn Install".
 
 ### Live Demo 
 
